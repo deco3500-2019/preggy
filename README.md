@@ -6,5 +6,6 @@ We are Team Preggy. Our project is about exploring mental health problems experi
  
 # Link to Project Proposal
 ### https://github.com/deco3500-2019/preggy/wiki/Proposal
-# Link to Final Report
+# Link to Project Wiki
+https://github.com/deco3500-2019/preggy/wiki
 # Link to Working Prototype, Promotional Material, Documentation
