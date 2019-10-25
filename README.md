@@ -5,7 +5,10 @@ We are Team Preggy. Our project is about exploring mental health problems experi
  ### Improve Mental Health in Pregnant Women
  
 # Link to Project Proposal
-### https://github.com/deco3500-2019/preggy/wiki/Proposal
+https://github.com/deco3500-2019/preggy/wiki/Proposal
 # Link to Project Wiki
 https://github.com/deco3500-2019/preggy/wiki
-# Link to Working Prototype, Promotional Material, Documentation
+# Link to Working Prototype
+Prototype 1: https://github.com/deco3500-2019/preggy/wiki/Prototype-1
+Protytype 2: https://marvelapp.com/d0g75b4/screen/62655630
+Mobile application: https://github.com/deco3500-2019/preggy/wiki/How-to-use-the-Application
